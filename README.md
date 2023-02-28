@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MmaAdeola
 - 👀 I’m interested in data analytics and artificial intelligence in health.
-- 🌱 I’m currently learning how to use python and SQL in data analytics
-- 💞️ I’m looking to collaborate on an interesting data analytics project 
+- 🌱 I am currently skilled in the use of python, power bi, SPSS, QGIS and SQL in data analytics.
+- 💠 I am enthusiastic about diverse kinds of research.
+- 💞️ I’m looking to collaborate on an interesting data analytics project.
 - 📫 How to reach me mmaadeola@gmail.com
 
 <!---
